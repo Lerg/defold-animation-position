@@ -1,0 +1,881 @@
+{
+	"textures": [
+		{
+			"image": "erica.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2000,
+				"h": 1511
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Erica_run_38.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 32,
+						"w": 270,
+						"h": 368
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 368
+					}
+				},
+				{
+					"filename": "Erica_run_20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 39,
+						"w": 252,
+						"h": 371
+					},
+					"frame": {
+						"x": 0,
+						"y": 368,
+						"w": 252,
+						"h": 371
+					}
+				},
+				{
+					"filename": "Erica_run_37.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 29,
+						"w": 255,
+						"h": 368
+					},
+					"frame": {
+						"x": 270,
+						"y": 0,
+						"w": 255,
+						"h": 368
+					}
+				},
+				{
+					"filename": "Erica_run_39.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 36,
+						"w": 252,
+						"h": 366
+					},
+					"frame": {
+						"x": 0,
+						"y": 739,
+						"w": 252,
+						"h": 366
+					}
+				},
+				{
+					"filename": "Erica_run_10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 100,
+						"y": 5,
+						"w": 141,
+						"h": 406
+					},
+					"frame": {
+						"x": 0,
+						"y": 1105,
+						"w": 141,
+						"h": 406
+					}
+				},
+				{
+					"filename": "Erica_run_36.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 26,
+						"w": 242,
+						"h": 367
+					},
+					"frame": {
+						"x": 252,
+						"y": 368,
+						"w": 242,
+						"h": 367
+					}
+				},
+				{
+					"filename": "Erica_run_21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 36,
+						"w": 235,
+						"h": 368
+					},
+					"frame": {
+						"x": 525,
+						"y": 0,
+						"w": 235,
+						"h": 368
+					}
+				},
+				{
+					"filename": "Erica_run_19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 36,
+						"w": 233,
+						"h": 369
+					},
+					"frame": {
+						"x": 252,
+						"y": 735,
+						"w": 233,
+						"h": 369
+					}
+				},
+				{
+					"filename": "Erica_run_00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 39,
+						"w": 236,
+						"h": 364
+					},
+					"frame": {
+						"x": 494,
+						"y": 368,
+						"w": 236,
+						"h": 364
+					}
+				},
+				{
+					"filename": "Erica_run_40.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 39,
+						"w": 236,
+						"h": 364
+					},
+					"frame": {
+						"x": 494,
+						"y": 368,
+						"w": 236,
+						"h": 364
+					}
+				},
+				{
+					"filename": "Erica_run_35.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 23,
+						"w": 230,
+						"h": 367
+					},
+					"frame": {
+						"x": 760,
+						"y": 0,
+						"w": 230,
+						"h": 367
+					}
+				},
+				{
+					"filename": "Erica_run_34.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 19,
+						"w": 219,
+						"h": 367
+					},
+					"frame": {
+						"x": 990,
+						"y": 0,
+						"w": 219,
+						"h": 367
+					}
+				},
+				{
+					"filename": "Erica_run_01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 36,
+						"w": 217,
+						"h": 368
+					},
+					"frame": {
+						"x": 1209,
+						"y": 0,
+						"w": 217,
+						"h": 368
+					}
+				},
+				{
+					"filename": "Erica_run_22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 32,
+						"w": 216,
+						"h": 367
+					},
+					"frame": {
+						"x": 1426,
+						"y": 0,
+						"w": 216,
+						"h": 367
+					}
+				},
+				{
+					"filename": "Erica_run_33.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 16,
+						"w": 217,
+						"h": 366
+					},
+					"frame": {
+						"x": 1642,
+						"y": 0,
+						"w": 217,
+						"h": 366
+					}
+				},
+				{
+					"filename": "Erica_run_09.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 101,
+						"y": 8,
+						"w": 139,
+						"h": 404
+					},
+					"frame": {
+						"x": 141,
+						"y": 1105,
+						"w": 139,
+						"h": 404
+					}
+				},
+				{
+					"filename": "Erica_run_02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 32,
+						"w": 204,
+						"h": 373
+					},
+					"frame": {
+						"x": 280,
+						"y": 1104,
+						"w": 204,
+						"h": 373
+					}
+				},
+				{
+					"filename": "Erica_run_08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 103,
+						"y": 11,
+						"w": 135,
+						"h": 401
+					},
+					"frame": {
+						"x": 1859,
+						"y": 0,
+						"w": 135,
+						"h": 401
+					}
+				},
+				{
+					"filename": "Erica_run_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 29,
+						"w": 190,
+						"h": 378
+					},
+					"frame": {
+						"x": 730,
+						"y": 368,
+						"w": 190,
+						"h": 378
+					}
+				},
+				{
+					"filename": "Erica_run_32.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 13,
+						"w": 215,
+						"h": 365
+					},
+					"frame": {
+						"x": 920,
+						"y": 367,
+						"w": 215,
+						"h": 365
+					}
+				},
+				{
+					"filename": "Erica_run_31.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 9,
+						"w": 213,
+						"h": 364
+					},
+					"frame": {
+						"x": 1135,
+						"y": 368,
+						"w": 213,
+						"h": 364
+					}
+				},
+				{
+					"filename": "Erica_run_04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 25,
+						"w": 177,
+						"h": 383
+					},
+					"frame": {
+						"x": 1348,
+						"y": 368,
+						"w": 177,
+						"h": 383
+					}
+				},
+				{
+					"filename": "Erica_run_05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 70,
+						"y": 22,
+						"w": 165,
+						"h": 387
+					},
+					"frame": {
+						"x": 1525,
+						"y": 367,
+						"w": 165,
+						"h": 387
+					}
+				},
+				{
+					"filename": "Erica_run_06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 84,
+						"y": 18,
+						"w": 152,
+						"h": 393
+					},
+					"frame": {
+						"x": 1690,
+						"y": 366,
+						"w": 152,
+						"h": 393
+					}
+				},
+				{
+					"filename": "Erica_run_14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 18,
+						"w": 158,
+						"h": 380
+					},
+					"frame": {
+						"x": 1842,
+						"y": 401,
+						"w": 158,
+						"h": 380
+					}
+				},
+				{
+					"filename": "Erica_run_07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 95,
+						"y": 15,
+						"w": 142,
+						"h": 397
+					},
+					"frame": {
+						"x": 485,
+						"y": 735,
+						"w": 142,
+						"h": 397
+					}
+				},
+				{
+					"filename": "Erica_run_15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 70,
+						"y": 22,
+						"w": 181,
+						"h": 373
+					},
+					"frame": {
+						"x": 484,
+						"y": 1132,
+						"w": 181,
+						"h": 373
+					}
+				},
+				{
+					"filename": "Erica_run_18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 32,
+						"w": 211,
+						"h": 368
+					},
+					"frame": {
+						"x": 627,
+						"y": 746,
+						"w": 211,
+						"h": 368
+					}
+				},
+				{
+					"filename": "Erica_run_12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 90,
+						"y": 11,
+						"w": 149,
+						"h": 396
+					},
+					"frame": {
+						"x": 665,
+						"y": 1114,
+						"w": 149,
+						"h": 396
+					}
+				},
+				{
+					"filename": "Erica_run_11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 95,
+						"y": 8,
+						"w": 145,
+						"h": 402
+					},
+					"frame": {
+						"x": 838,
+						"y": 746,
+						"w": 145,
+						"h": 402
+					}
+				},
+				{
+					"filename": "Erica_run_26.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 67,
+						"y": 19,
+						"w": 168,
+						"h": 363
+					},
+					"frame": {
+						"x": 814,
+						"y": 1148,
+						"w": 168,
+						"h": 363
+					}
+				},
+				{
+					"filename": "Erica_run_30.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 6,
+						"w": 212,
+						"h": 362
+					},
+					"frame": {
+						"x": 983,
+						"y": 732,
+						"w": 212,
+						"h": 362
+					}
+				},
+				{
+					"filename": "Erica_run_25.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 23,
+						"w": 158,
+						"h": 363
+					},
+					"frame": {
+						"x": 982,
+						"y": 1148,
+						"w": 158,
+						"h": 363
+					}
+				},
+				{
+					"filename": "Erica_run_13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 86,
+						"y": 15,
+						"w": 152,
+						"h": 386
+					},
+					"frame": {
+						"x": 1195,
+						"y": 732,
+						"w": 152,
+						"h": 386
+					}
+				},
+				{
+					"filename": "Erica_run_24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 26,
+						"w": 177,
+						"h": 364
+					},
+					"frame": {
+						"x": 1347,
+						"y": 751,
+						"w": 177,
+						"h": 364
+					}
+				},
+				{
+					"filename": "Erica_run_16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 25,
+						"w": 203,
+						"h": 366
+					},
+					"frame": {
+						"x": 1140,
+						"y": 1118,
+						"w": 203,
+						"h": 366
+					}
+				},
+				{
+					"filename": "Erica_run_29.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 9,
+						"w": 201,
+						"h": 360
+					},
+					"frame": {
+						"x": 1524,
+						"y": 759,
+						"w": 201,
+						"h": 360
+					}
+				},
+				{
+					"filename": "Erica_run_23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 29,
+						"w": 197,
+						"h": 365
+					},
+					"frame": {
+						"x": 1725,
+						"y": 781,
+						"w": 197,
+						"h": 365
+					}
+				},
+				{
+					"filename": "Erica_run_17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 29,
+						"w": 193,
+						"h": 366
+					},
+					"frame": {
+						"x": 1343,
+						"y": 1119,
+						"w": 193,
+						"h": 366
+					}
+				},
+				{
+					"filename": "Erica_run_27.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 16,
+						"w": 179,
+						"h": 366
+					},
+					"frame": {
+						"x": 1536,
+						"y": 1119,
+						"w": 179,
+						"h": 366
+					}
+				},
+				{
+					"filename": "Erica_run_28.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 13,
+						"w": 190,
+						"h": 364
+					},
+					"frame": {
+						"x": 1715,
+						"y": 1146,
+						"w": 190,
+						"h": 364
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f5b8aa71aba5ca64ee3fb6beb6ab7db0:8ed5b36032bc7009ff00ef57963d97cf:241fffce3f22247f956f8e16f7e05f3b$"
+	}
+}
