@@ -3,166 +3,371 @@ animations {
   images {
     image: "/erica/Erica_run_00.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 0.0
+      y: 39.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_01.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 14.0
+      y: 36.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_02.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 28.0
+      y: 32.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_03.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 43.0
+      y: 29.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_04.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 57.0
+      y: 25.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_05.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 70.0
+      y: 22.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_06.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 84.0
+      y: 18.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_07.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 95.0
+      y: 15.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_08.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 103.0
+      y: 11.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_09.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 101.0
+      y: 8.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_10.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 100.0
+      y: 5.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_11.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 95.0
+      y: 8.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_12.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 90.0
+      y: 11.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_13.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 86.0
+      y: 15.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_14.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 81.0
+      y: 18.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_15.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 70.0
+      y: 22.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_16.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 59.0
+      y: 25.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_17.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 51.0
+      y: 29.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_18.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 37.0
+      y: 32.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_19.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 20.0
+      y: 36.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_20.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 5.0
+      y: 39.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_21.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 18.0
+      y: 36.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_22.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 32.0
+      y: 32.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_23.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 46.0
+      y: 29.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_24.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 61.0
+      y: 26.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_25.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 77.0
+      y: 23.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_26.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 67.0
+      y: 19.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_27.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 57.0
+      y: 16.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_28.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 47.0
+      y: 13.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_29.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 37.0
+      y: 9.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_30.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 27.0
+      y: 6.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_31.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 25.0
+      y: 9.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_32.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 22.0
+      y: 13.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_33.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 20.0
+      y: 16.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_34.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 17.0
+      y: 19.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_35.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 15.0
+      y: 23.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_36.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 14.0
+      y: 26.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_37.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 13.0
+      y: 29.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_38.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 10.0
+      y: 32.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_39.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 8.0
+      y: 36.0
+      z: 0.0
+    }
   }
   images {
     image: "/erica/Erica_run_40.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+    position {
+      x: 0.0
+      y: 39.0
+      z: 0.0
+    }
   }
   playback: PLAYBACK_LOOP_FORWARD
   fps: 20
