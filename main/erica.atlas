@@ -3,7 +3,6 @@ animations {
   images {
     image: "/erica/Erica_run_00.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
-    source_position_x: 0
     source_position_y: 39
     source_width: 281
     source_height: 415
@@ -323,7 +322,6 @@ animations {
   images {
     image: "/erica/Erica_run_40.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
-    source_position_x: 0
     source_position_y: 39
     source_width: 281
     source_height: 415
